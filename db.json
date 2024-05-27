@@ -1,0 +1,34 @@
+{
+	"users": [
+		{
+			"id": "2e98c264-8d0b-421a-a670-99235029a34d",
+			"name": "Guido",
+			"email": "guido@email.com",
+			"password": "$2b$08$N7FKMRYDmuEEA/hNTOaIG.eh6k0PvbGN8N36NkgDlSlzs4OZRHc6a"
+		},
+		{
+			"id": "85b69da1-dfa2-4e5d-b122-2b8faeb40b8b",
+			"name": "Ana",
+			"email": "ana@email.com",
+			"password": "$2b$08$VlWTBBjmKMOFuyC/Pjmdmupm11eO7KVoRjbsmfcJ.VZF5UoqTOjnq"
+		},
+		{
+			"id": "9fcfdb85-c349-41b5-a0cb-5af9b15c3d54",
+			"name": "João",
+			"email": "joao@email.com",
+			"password": "$2b$08$nHwnqDLjzxP3V87Y7jmJrexckxvnt1NMOgjUAcJlAW8Bd.eDcJKdq"
+		}
+	],
+	"products": [
+		{
+			"name": "Banana",
+			"price": 500,
+			"id": 1
+		},
+		{
+			"name": "Abacaxi",
+			"price": 400,
+			"id": 2
+		}
+	]
+}
